@@ -1,7 +1,8 @@
 # Habittracker_DLBDSOOFPP01
 
 Introduction
-The purpose of habit tracker is to help user monitor and evaluate their progress and achievements of habits they want to implement in their life. They enable a convenient way to track habits, so that users are both held accountable and encouraged to keep going. In this document the development, installation and use of a habit tracker app is described.
+
+The purpose of habit tracker is to help user monitor and evaluate their progress and achievements of habits they want to implement in their life. It enables a convenient way to track habits, so that users are both held accountable and encouraged to keep going. In this document the development, installation and use of a habit tracker app is described.
 
 Installation and requirements & getting started
 The app requires python 3.10+ version, which can be downloaded from the official website (https://www.python.org/). Furthermore, the following third-party libraries are being used: 
@@ -9,7 +10,7 @@ The app requires python 3.10+ version, which can be downloaded from the official
 •	click, for the creation of the CLI
 •	sqlite3, for the creation and management of the databases & 
 •	pytest for testing purpose. 
-These libraries were chosen as they were recommended in the assignment. 
+They are available in most python IDEs.
 
 Installation and requirements & getting started
 First download the code by downloading the .zip-File.To run the application, open the project with a python-IDE and run the file main.py .
